@@ -1,4 +1,4 @@
-project = 'clubpogodoc'
+project = 'clubpogoco'
 author = 'Your Name'
 release = '1.0'
 
